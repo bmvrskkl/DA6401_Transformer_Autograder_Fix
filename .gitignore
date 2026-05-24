@@ -1,0 +1,5 @@
+transformer.pth
+models_backup/
+wandb/
+__pycache__/
+*.pyc
